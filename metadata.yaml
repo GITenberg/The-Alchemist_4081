@@ -1,0 +1,33 @@
+_repo: The-Alchemist_4081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jonson, Ben
+    aliases:
+    - Jonson, Benjamin
+    - Johnson, Ben
+    - Ionson, Ben
+    deathdate: 1637
+    gutenberg_agent_id: '1269'
+    url: http://www.gutenberg.org/2009/agents/1269
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Jonson
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 17th century'
+- !lcc 'PR'
+- !lcsh 'Alchemists -- Drama'
+- !lcsh 'City and town life -- Drama'
+- !lcsh 'London (England) -- Drama'
+- !lcsh 'English drama (Comedy)'
+- GITenberg
+title: The Alchemist
+url: http://www.gutenberg.org/ebooks/4081
